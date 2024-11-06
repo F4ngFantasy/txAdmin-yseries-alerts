@@ -1,7 +1,7 @@
 # txAdmin-yseries-alerts
 
 ## Credits
-Creator credits go to Mr Cheesus Crust and Masterfirewall. And a massivbe thanks for allowing me to edit and upload this code (/y'all are awesome for this guys)
+Creator credits go to Mr Cheesus Crust and Masterfirewall. And a massivbe thanks for allowing me to edit and upload this code (y'all are awesome for this guys)
 
 ## Details
 This is a singular file that you can put in your yseries folder to replace the function of txAdmin, being those pesky alert bubbles at the top of your screen. The file has 2 primary functions:
